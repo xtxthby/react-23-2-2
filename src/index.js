@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './styles.css';
+// import './styles.css';
+import './styles/base.scss';
 import App from './App';
-import 'modern-normalize/modern-normalize.css';
+// import 'modern-normalize/modern-normalize.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
